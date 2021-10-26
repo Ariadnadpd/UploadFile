@@ -19,4 +19,3 @@
 5) Añadir en la sección "key" el nombre "files", seleccionar el tipo de archivo que será "file" y añadir el/los ficheros.
 
 6) Hacer clic en "Send" y comprobar que se ha añadido el/los ficheros.
-# UploadFiles
